@@ -8,7 +8,11 @@ the libraries that you need to install before you run the program is
 <br>
 2.keras
 <br>
-mtplotlib
+4.matplotlib
+<br>
+4.scikit-ntk
+<br>
+5.numpy
 <br>
 The dataset used in this project is a customised dataset which is a mix of 3 tesla and 7 tesla mri scans of the brain, if you wish to download the dataset you can download from this repository.
 <br>
@@ -22,3 +26,6 @@ second author's contact details are
 <br>
 mail - 
 <br>
+third authors contact details
+<br>
+mail-
