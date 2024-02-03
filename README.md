@@ -1,5 +1,7 @@
 # brain-tumor-prediction-using-CNN
 <br>
+the libraries that is to be installed before running is 
+<br>
 1.tensorflow
 <br>
 2.keras
