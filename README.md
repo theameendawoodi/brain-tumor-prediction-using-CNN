@@ -12,6 +12,8 @@ the libraries that is to be installed before running is
 <br>
 5.numpy
 <br>
+the results with every stage of the project is included in the repository under the name od "the table".
+<br>
 contact details of the main author is 
 <br>
 mail - marahmand525@gmail.com
